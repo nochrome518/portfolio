@@ -130,7 +130,7 @@ a {
   }
   section .title {
     max-width: 60%;
-    font-size: 2vw;
+    font-size: 1.8vw;
     width: 100%;
     align-self: center;
     transform: translateY(-50px);
